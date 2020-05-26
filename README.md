@@ -1,10 +1,9 @@
 # Logos
 
-## Longplay
+<h2 align="center">Longplay</h2>
 
-<center>
+<p align="center">
   <img src="./logo.png" width="300"/>
-  <br>
-  <p>play by buheicon from the Noun Project</p>
-  <p>edited by @pskfyi</p>
-</center>
+</p>
+<p align="center">play by buheicon from the Noun Project</p>
+<p align="center">edited by @pskfyi</p>
